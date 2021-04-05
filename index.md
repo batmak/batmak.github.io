@@ -1,7 +1,7 @@
 ## Hallo du.
 ## Update 2021-04-05 15:51 UTC+2:
 
-- Update 1
+- Update 1 [news](news1.md)
 
 
 ## Welcome to GitHub Pages
